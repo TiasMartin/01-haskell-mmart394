@@ -1,4 +1,3 @@
-Problems 1-7:
-    - Week 3 Section Slides
-    - Lecture 6
-    - Lecture 7
+- The Week 3 Section Slides were my main reference for making the functions
+- Lecture 6 for understanding Haskell
+- Lecture 7 for understanding Haskell, specificially for understanding recursion
